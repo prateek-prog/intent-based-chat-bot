@@ -48,7 +48,7 @@ def main():
             csv_writer.writerow(['User Input', 'Chatbot Response', 'Timestamp'])
 
     # Locate the JSON file dynamically
-    json_file_path = find_file("data/greenskills.json")
+    json_file_path = find_file("greenskills.json")
 
     if json_file_path:
         try:
