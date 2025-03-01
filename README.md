@@ -14,8 +14,8 @@ An intent-based chatbot built using Streamlit, designed to understand user queri
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/intent-chatbot-streamlit.git
-   cd intent-chatbot-streamlit
+   git clone https://github.com/yourusername/intent-based-chat-bot.git
+   cd intent-based-chat-bot
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
