@@ -34,7 +34,7 @@ An intent-based chatbot built using Streamlit, designed to understand user queri
 1. **Run the Streamlit App**
    ```bash
    streamlit run app.py
-   intent-based-chat-bot.streamlit.app
+   intent-based-chat-bot-9.streamlit.app
    ```
 
 2. **Interact with the chatbot**
