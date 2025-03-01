@@ -3,7 +3,7 @@ import streamlit as st
 import os
 import csv
 import datetime
-from p import chatbot
+from chatbot import chatbot
 #import random
 
 # Load SpaCy model
